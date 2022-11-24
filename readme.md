@@ -7,8 +7,9 @@ Here we attach a code showcase of the algorithms used within the paper. All code
 
 ## Algorithms used
 1. Elastic-net
-2. Boruta with random forest
-3. K-means clustering
+2. Boruta feature selection with random forest
+3. K-means imputation and k-prototype clustering
+4. XgBoost
 
 TODO:   
 [ ] code clean-up   
